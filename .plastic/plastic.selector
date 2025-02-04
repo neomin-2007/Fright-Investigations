@@ -1,0 +1,4 @@
+repository "SCD - Fright Investigations@loucoporgame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
